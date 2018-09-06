@@ -1,0 +1,33 @@
+Возвращаясь к R...
+
+
+
+R и психология (psyche)
+
+http://personality-project.org/r/r.guide.html#withinone
+
+
+
+R и нейросеть (nnet)
+
+http://www.machinelearning.ru/wiki/images/8/81/Nnet_report.pdf
+
+
+
+R и Титаник
+
+http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/
+
+
+
+Машинное обучение:
+
+
+
+Основные алгоритмы
+
+http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+
+
+
+4/6/17
