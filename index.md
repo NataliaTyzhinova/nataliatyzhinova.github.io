@@ -4,33 +4,9 @@ You can use the [edit page](https://github.com/NataliaTyzhinova/nataliatyzhinova
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Welcome to R
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NataliaTyzhinova/nataliatyzhinova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Welcome to R
-
-## Установка R
+### Установка R
 
 https://cran.rstudio.com/ (одно из зеркал, полный список которых тут https://cran.r-project.org/mirrors.html)
 
@@ -44,7 +20,7 @@ https://www.rstudio.com/products/rstudio/download/
 Также, по информации из википедии: "Доступ к функциям и среде выполнения R возможен из Python с использованием пакета RPy" http://rpy.sourceforge.net/
 
 
-## Изучение R
+### Изучение R
 
 Помимо множества мануалов, доступных на сайте создателей R https://cran.r-project.org/manuals.html
 
