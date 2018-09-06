@@ -1,4 +1,4 @@
-## сегодня 15 марта
+## Cегодня 15 марта
 
 You can use the [edit page](https://github.com/NataliaTyzhinova/nataliatyzhinova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
