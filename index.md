@@ -1,9 +1,3 @@
-## Cегодня 15 марта
-
-You can use the [edit page](https://github.com/NataliaTyzhinova/nataliatyzhinova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Welcome to R
 
 ### Установка R
@@ -43,3 +37,5 @@ https://www.rstudio.com/resources/training/online-learning/#R
 http://www.r-bloggers.com/r-in-insurance-2016/
 
 7/10/2015
+
+[edit page](https://github.com/NataliaTyzhinova/nataliatyzhinova.github.io/edit/master/index.md) 
