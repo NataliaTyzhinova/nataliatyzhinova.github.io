@@ -30,7 +30,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Welcome to R
 
-##Установка R
+## Установка R
 
 https://cran.rstudio.com/ (одно из зеркал, полный список которых тут https://cran.r-project.org/mirrors.html)
 
@@ -44,7 +44,7 @@ https://www.rstudio.com/products/rstudio/download/
 Также, по информации из википедии: "Доступ к функциям и среде выполнения R возможен из Python с использованием пакета RPy" http://rpy.sourceforge.net/
 
 
-##Изучение R
+## Изучение R
 
 Помимо множества мануалов, доступных на сайте создателей R https://cran.r-project.org/manuals.html
 
