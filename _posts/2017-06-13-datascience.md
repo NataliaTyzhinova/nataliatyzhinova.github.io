@@ -4,10 +4,10 @@
 
 Вместо хорошей новости — ссылки на полезные статьи.
 
-Есть проект с изучением больших данных Dataquest, вот статья из их блога на тему [how to build a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+Есть проект с изучением больших данных Dataquest, вот статья из их блога на тему [how to build a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/).
 
 Продолжение тут:
-* создать портфолио для устройства на работу
 * найти данные для проектов
+.....
 * разместить на гитхабе
-
+* создать портфолио для устройства на работу
