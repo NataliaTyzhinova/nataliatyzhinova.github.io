@@ -1,5 +1,3 @@
-Это мой самый заброшенный некрасивый и непопулярный блог, но самый успешный, потому что достиг своей цели наполовину: в прошлом году
-
 It`s seems that my the most ugliest unpopular and seldom visited (by me) blog somehow turned to be the most effective and useful of other blogs. 
 
 The fact is that in 2020 I had finished and got certificates from two courses: 
