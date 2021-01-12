@@ -8,7 +8,7 @@ And it was the first half of my goal setted here some 3 or 4 years go.
 Well I hope that reaching its second half wouldn`t take so long. 
 
 Get a dreamjob in two or three months, what ever thing on Earth could be easier? 
-It`s a serious joke. You know, it`s when you joke and you really mean it (с) 
+It is a serious joke. You know, it`s when you joke and you really mean it (с) 
 
 ---
 
