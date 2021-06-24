@@ -14,6 +14,3 @@ Retailer Sales Forecast Case (Time Series):
 
 3\. [AutoReg.ipynb](https://github.com/nataliatyzhinova/my_notebooks/blob/main/AutoReg.ipynb): Forecast using AutoRegression model
 
-
-
-[edit page](https://github.com/NataliaTyzhinova/nataliatyzhinova.github.io/edit/master/index.md) 
